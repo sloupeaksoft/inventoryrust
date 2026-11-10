@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "rustinventory",
+    "name": "Rust Inventory",
+    "description": "Rust-style inventory: 6-slot belt, 24 inventory slots, 7 layered clothing slots. Addon for MineRustAddons.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": ["netrfloox"],
+    "dependencies": ["minerustaddons"]
+  }
+]
